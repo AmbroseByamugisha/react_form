@@ -26,3 +26,36 @@
   .nav-item-right {
       float: right;
   }
+
+  .loginForm {
+      background-color: grey;
+      margin-top: 60px;
+      padding-top: 20px;
+      display: grid;
+  }
+
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .button {
+    background-color: dark grey; 
+    border: none;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .button {
+      border-radius: 12px;
+    }
+  
